@@ -1,0 +1,7 @@
+#Problem to Fix two divs side by side-
+Solved using making the parent container flex-space around or evenly according to the use
+#Problem of the footer border-
+Solved using using flex align item center and justify content center in the child element using the flex property.
+
+
+
